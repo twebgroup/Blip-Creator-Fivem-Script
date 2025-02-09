@@ -35,9 +35,12 @@ Blip Creator is a blip creation and management tool developed for FiveM servers.
 ## 🏁 Conclusion
 Blip Creator is a powerful tool that simplifies and enhances map management in FiveM servers. Its user-friendly design, dynamic listing system, and real-time updates provide a seamless experience for players. You can further customize and expand the system to fit your server's specific needs.
 
-## 📌 Download & Preview & Support
+## 📌 Preview & Support
    - <a href="https://discord.gg/tweb" target="_blank">Discord</a>
    - <a href="https://discord.gg/tweb" target="_blank">Showcase YouTube</a>
    - <a href="https://tweb.tr" target="_blank">Tebex Script</a>
    - <a href="https://tweb.tr" target="_blank">Patreon</a>
    - <a href="https://tweb.tr" target="_blank">Web Page</a>
+   
+## 📂 Download
+<a href="https://drive.google.com/file/d/1N2Zv6_faD6_NAR209mPhs5TPrPQTXunV/view" target="_blank">Open Source File!</a>
